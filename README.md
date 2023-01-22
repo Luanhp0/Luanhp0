@@ -15,4 +15,3 @@
 </div>
 
 
-![snake_gif](https://github.com/Luanhp0/Luanhp0/blob/output/github-contribution-grid-snake.svg)
