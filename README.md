@@ -9,7 +9,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luanhp0&show_icons=true&count_private=true&hide_border=true&title_color=DCDCDC&icon_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" alt="Luan Pereira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanhp0&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" />
 </div>
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='120'>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <div align="center">
