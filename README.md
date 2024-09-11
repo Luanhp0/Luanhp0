@@ -1,6 +1,6 @@
 <img width=100% src="https://github.com/user-attachments/assets/db224740-a022-4171-ae54-1c3124737fd6"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luan+Pereira+Silva;I'm+24+years+old;I+am+from+Suzano,+SP;I+study+analysis+and+systems+development+and+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luan+Pereira+Silva;I'm+24+years+old;I+am+from+Suzano,+SP;I+study+analysis+and+systems+development+and+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 <div align="center">  
