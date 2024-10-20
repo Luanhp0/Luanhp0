@@ -24,9 +24,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Luanhp0/Luanhp0/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
