@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=192,192,19&height=120&section=header&text=Luan+Pereira&fontsize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header&text=Luan+Pereira&fontsize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luan+Pereira+Silva;I'm+24+years+old;I+am+from+Suzano+SP+I+study+analysis+and+systems+development+and+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
