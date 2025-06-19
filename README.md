@@ -12,7 +12,7 @@
 
 ### Sobre mim 🚀
 - 🎓 Estudante de Engenharia de Software | Back-End Developer
-- 👨‍💻 Atualmente estudando Java, Python e Robótica
+- 👨‍💻 Atualmente estudando Java e Robótica
 - 🔧 Amante da tecnologia, projetos criativos e soluções inteligentes
 - 🏋️ Vida equilibrada entre códigos, academia e uma boa história em quadrinhos
 - 🌊 Sonhando alto: viver de frente para o mar!
