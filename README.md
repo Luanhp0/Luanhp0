@@ -15,7 +15,7 @@ Eu gosto de Arch Linux e de Java.
 > "Everyone keeps telling me how my story is supposed to go. Nah. I’m gonna do my own thing." — Miles Morales 🕷️
 </p>
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5cGE2MnU1Y2tuMWRzdGx5MmZndzlpNmxieXdjYmUyYzhjb2E2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqxbgri8lBSzvMVI3Y/giphy.gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5cGE2MnU1Y2tuMWRzdGx5MmZndzlpNmxieXdjYmUyYzhjb2E2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqxbgri8lBSzvMVI3Y/giphy.gif" width="200"/>
 </p>
 
 
